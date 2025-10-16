@@ -1,6 +1,4 @@
 # 🧱 Tetris em C#
-
-![Tetris Banner](https://i.imgur.com/NsQd0Tc.png)  
 > 🎮 Uma recriação do clássico **Tetris**, desenvolvida em **C#** — com foco em lógica, interface gráfica e mecânicas de jogo.
 
 ---
